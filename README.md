@@ -27,7 +27,6 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 [![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://www.kaggle.com/furcifer&label=furcifer)](https://www.kaggle.com/furcifer)
 [![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/nabil1997&label=nabil1997)](https://www.codechef.com/users/nabil1997)
 [![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=Furcifer&link=https://www.hackerrank.com/Furcifer?hr_r=1)](https://www.hackerrank.com/Furcifer?hr_r=1)
-[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=zabiralnabil&link=https://leetcode.com/zabiralnabil/)](https://leetcode.com/zabiralnabil/)
 [![ACM](https://img.shields.io/static/v1?style=flat-square&message=ACM&color=0085CA&logo=ACM&logoColor=FFFFFF&label=zabir&link=https://icpc.global/ICPCID/BIKBO2UHPKON)](https://icpc.global/ICPCID/BIKBO2UHPKON)
 
 
