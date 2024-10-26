@@ -8,7 +8,7 @@
 
 ## About Me
 
-CS PhD Student @ UC Riverside. 6+ years of experience as a Software Engineer / Machine Learning Engineer - developing and deploying deep learning, computer vision, and NLP applications. 
+Currently a CS PhD student at UC Riverside; previously, 6+ years as a Software Engineer and Machine Learning Engineer - developing and deploying deep learning, computer vision, and NLP applications.
 
 
 Research interests include but are not limited to LLMs, Information Retrieval, Medical AI, and xAI.
@@ -16,9 +16,9 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
  :earth_asia: (https://zabir.quest)
 </div>
 
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="120">
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
 
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="120">
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
 
 ## :mag_right: Find me
 
