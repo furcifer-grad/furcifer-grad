@@ -25,7 +25,6 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PseudoEmpirical)
-[![Youtube Badge](https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&link=https://www.youtube.com/c/Furcifer&label=Furcifer)](https://www.youtube.com/c/Furcifer)
 [![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@furcifer/&label=@furcifer)](https://medium.com/@furcifer)
 [![Google Scholar](https://img.shields.io/static/v1?style=flat-square&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://scholar.google.se/citations?pli=1&user=Fd1-G4YAAAAJ&label=zabir)](https://scholar.google.se/citations?pli=1&user=Fd1-G4YAAAAJ)
 [![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://www.kaggle.com/furcifer&label=furcifer)](https://www.kaggle.com/furcifer)
