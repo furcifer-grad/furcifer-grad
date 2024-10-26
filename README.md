@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi</h2>
+<h2>👋 Hi</h2>
 
 <!---
 <div align="center">
@@ -19,7 +19,10 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 
 ## :mag_right: Find me
 
+<div align="center">
+<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="150"></a>
 
+</div>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PseudoEmpirical)
 [![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@furcifer/&label=@furcifer)](https://medium.com/@furcifer)
@@ -28,15 +31,12 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 [![Codechef](https://img.shields.io/static/v1?style=flat-square&message=CodeChef&color=5B4638&logo=CodeChef&logoColor=FFFFFF&link=https://www.codechef.com/users/nabil1997&label=nabil1997)](https://www.codechef.com/users/nabil1997)
 [![Hackerrank](https://img.shields.io/static/v1?style=flat-square&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=Furcifer&link=https://www.hackerrank.com/Furcifer?hr_r=1)](https://www.hackerrank.com/Furcifer?hr_r=1)
 [![ACM](https://img.shields.io/static/v1?style=flat-square&message=ACM&color=0085CA&logo=ACM&logoColor=FFFFFF&label=zabir&link=https://icpc.global/ICPCID/BIKBO2UHPKON)](https://icpc.global/ICPCID/BIKBO2UHPKON)
-[![GCP ML](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white&label=zabir&link=[https://icpc.global/ICPCID/BIKBO2UHPKON](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be))]([https://icpc.global/ICPCID/BIKBO2UHPKON](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be))
+[![GCP ML](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white&label=Certification&link=[https://icpc.global/ICPCID/BIKBO2UHPKON](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be))]([https://icpc.global/ICPCID/BIKBO2UHPKON](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be))
 
 
 <div align="center">
 
-<div align="center">
-<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="150"></a>
 
-</div>
 
 </div>
 
