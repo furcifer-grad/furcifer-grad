@@ -6,7 +6,7 @@ Nabil here.
 </div>
 -->
 
-## About Me
+## 🎯 About Me
 
 Currently a CS PhD student at UC Riverside; previously, 6+ years as a Software Engineer and Machine Learning Engineer - developing and deploying deep learning, computer vision, and NLP applications.
 
