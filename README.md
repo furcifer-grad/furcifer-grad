@@ -16,9 +16,6 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
  :earth_asia: (https://zabir.quest)
 </div>
 
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
-
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
 
 ## :mag_right: Find me
 
@@ -35,6 +32,11 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 
 
 <div align="center">
+
+<div align="center">
+<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
+
+</div>
 
 </div>
 
@@ -77,9 +79,9 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 
 ## :chart_with_upwards_trend: Stats
 
-<div align="center">
-<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
 
-</div>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/zabir-nabil" width="135">
+
 
 <br>
