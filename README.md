@@ -40,7 +40,7 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 
 </div>
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
