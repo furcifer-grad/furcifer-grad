@@ -1,6 +1,6 @@
 <h2>👋 Hi</h2>
 
-<span style="font-family: 'Courier New', monospace; font-weight: bold;">Nabil</span> here.
+`*Nabil*` here.
 
 <!---
 <div align="center">
