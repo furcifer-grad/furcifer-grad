@@ -1,5 +1,6 @@
 <h2>👋 Hi</h2>
-Nabil here!
+<span style="font-family: 'Courier New', monospace; font-weight: bold;">Nabil</span> here.
+
 <!---
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/zabir-nabil/zabir-nabil/blob/master/assets/moss.gif">
