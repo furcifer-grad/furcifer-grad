@@ -1,5 +1,5 @@
 <h2>👋 Hi</h2>
-<span style="font-family: 'Times New Roman', monospace; font-weight: bold;">Nabil</span> here.
+`Nabil` here.
 
 <!---
 <div align="center">
