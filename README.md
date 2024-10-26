@@ -33,7 +33,7 @@ Research interests include but are not limited to LLMs, Information Retrieval, M
 <div align="center">
 
 <div align="center">
-<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
+<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="150"></a>
 
 </div>
 
